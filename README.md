@@ -17,5 +17,6 @@ Main2
 -reads csv file containing data on animal's positions and creates a DataSet onject to get animal's statistics
 
 ![Image of Mouse being tracked](AnimalTrackerMouse.jpg)
+![Image of Mouse Statistics](MouseTrackerStatistics.jpg)
 
 Framework for webcam and video implementation written by David Dobervich is NOT included.
