@@ -14,10 +14,11 @@ DataSet can generate many statistics for the animal:
 - total time spent in the region of interest, at a certain speed
 
 Main2
--reads csv file containing data on animal's positions and creates a DataSet onject to get animal's statistics
+-reads csv file containing data on animal's positions and creates a DataSet object to get animal's statistics
 
 
 ![Image of Mouse being tracked](AnimalTrackerMouse.jpg)
+
 ![Image of Mouse Statistics](StatisticsFromDataSet.jpg)
 
 
