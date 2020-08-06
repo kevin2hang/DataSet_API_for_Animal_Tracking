@@ -13,8 +13,8 @@ public class Main2 {
         ArrayList<Point> positions = new ArrayList<>();
         DataSet dataset = new DataSet(fps, cmPerPixel, positions);
 
-        ArrayList<Point> KevinMousePositions = dataset.readFileAsStringXY("Files/ZHANG_KEVIN.csv");
-        ArrayList<Point> DobervichMousePositions = dataset.readFileAsStringYX("Files/DOBERVICH_DAVID.csv");
+        ArrayList<Point> KevinMousePositions = dataset.readFileAsStringXY("data/ZHANG_KEVIN.csv");
+        ArrayList<Point> DobervichMousePositions = dataset.readFileAsStringYX("data/DOBERVICH_DAVID.csv");
 
         CircularRegion ROI = new CircularRegion(640, 480);
         ROI.createRegionOfInterest(new Point(233, 308), 100);
