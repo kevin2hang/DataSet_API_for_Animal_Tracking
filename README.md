@@ -17,6 +17,7 @@ Main2
 -reads csv file containing data on animal's positions and creates a DataSet object to get animal's statistics
 
 
+
 ![Image of Mouse being tracked](AnimalTrackerMouse.jpg)
 
 ![Image of Mouse Statistics](StatisticsFromDataSet.jpg)
