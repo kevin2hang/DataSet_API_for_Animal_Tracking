@@ -23,4 +23,4 @@ Main2
 ![Image of Mouse Statistics](StatisticsFromDataSet.jpg)
 
 
-Framework for webcam and video implementation written by David Dobervich is NOT included.
+Framework for webcam and video implementation written by David Dobervich is **NOT** included.
