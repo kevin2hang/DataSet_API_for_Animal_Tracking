@@ -1,4 +1,4 @@
-# DataSet_API_for_Animal_Tracking
+# DataSet API for Animal_Tracking
 DataSet API that creates statistics about an animal in an enclosure. A video filter analyzes the video to generate data.
 
 
